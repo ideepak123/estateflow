@@ -1,0 +1,26 @@
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Backend
+estateflow-backend/target/
+
+# Frontend
+estateflow-frontend/node_modules/
+estateflow-frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Maven Wrapper jar
+.mvn/wrapper/maven-wrapper.jar
